@@ -1,4 +1,5 @@
 from copy import deepcopy
+from fragmentation_measures import *
 
 def find_key_terrorists_fragmentation(adjacency):
     """
