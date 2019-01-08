@@ -1,6 +1,23 @@
 from copy import deepcopy
 from fragmentation_measures import *
 
+def compute_objective(adjacency):
+    """
+    Parameters
+    ----------
+    adjacency: numpy matrix representing the adjacency matrix of the network.
+    
+    Returns
+    -------
+    F + IE + Fd: combined score according to three metrics
+    """
+	
+    F = F_measure(adjacency)
+    IE = information_entropy(adjacency)
+    Fd = Fd_measure(adjacency)
+    return F + IE + Fd
+	
+
 def find_key_terrorists_fragmentation(adjacency):
     """
     Parameters
@@ -18,10 +35,10 @@ def find_key_terrorists_fragmentation(adjacency):
     objective = [] # cumulative
 
     # compute metric
-    score = F_measure(adjacency)
+    score = compute_objective(adjacency)
 
     # relative size of penalty for including more key terrorists
-    C = 0.15
+    C = 0.75
     
     # maximize objective function and store its value
     best_score = max(score) - C*(len(set_kt) + 1)
@@ -68,7 +85,7 @@ def find_key_terrorists_fragmentation(adjacency):
         original_indices = np.delete(original_indices, original_indices[key])
 
         # find the next key terrorist
-        score = F_measure(new_adjacency)
+        score = compute_objective(new_adjacency)
         key = np.argmax(score)
 
         # store optimal objective value (cumulative)
