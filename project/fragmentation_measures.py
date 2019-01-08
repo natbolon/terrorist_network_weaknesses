@@ -124,8 +124,7 @@ def Fd_measure(adjacency):
         numerator = 0
         for i in range(temp.shape[0]):
             shortest_paths_lengths = compute_shortest_path_lengths(temp, i)
-            for j in range(temp.shape[0]):
-                if i <= j: continue
+            for j in range(i+1, temp.shape[0]):
                 numerator += 1 / shortest_paths_lengths[j]
 
         Fd[n] =  1 - numerator / denominator
