@@ -1,5 +1,6 @@
 from copy import deepcopy
 from fragmentation_measures import *
+import networkx as nx
 
 def compute_objective(adjacency):
     """
@@ -18,11 +19,12 @@ def compute_objective(adjacency):
     return F + IE + Fd
 	
 
-def find_key_terrorists_fragmentation(adjacency):
+def find_key_terrorists_fragmentation(adjacency, labels):
     """
     Parameters
     ----------
     adjacency: numpy matrix representing the adjacency matrix of the network.
+    labels: numpy matrix representing the adjacency matrix with labels (-2, -1, 1, 2).
     
     Returns
     -------
@@ -56,9 +58,22 @@ def find_key_terrorists_fragmentation(adjacency):
     # need this to match identify terrorists later
     original_indices = np.array(range(adjacency.shape[0]))
 
+    iter = 1
     while current < objective[-1]:
         # update current objective value
         current = objective[-1]
+        
+        graph = nx.from_numpy_matrix(adjacency)
+        d = {}
+        for index, value in enumerate(score):
+            d[index] = value
+        nx.set_node_attributes(graph, d, 'score')
+        r = {}
+        for index, value in np.ndenumerate(labels):
+            r[index] = value
+        nx.set_edge_attributes(graph, r, 'relations')
+        nx.write_gml(graph, "graph_score"+str(iter)+".gml")
+        iter = iter+1
 
         # If the adjacency has been reduced to size 1
         if new_adjacency.shape[0] == 1:

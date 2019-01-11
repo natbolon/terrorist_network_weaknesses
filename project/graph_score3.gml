@@ -2,510 +2,637 @@ graph [
   node [
     id 0
     label "0"
+    score 2.478327335168365
   ]
   node [
     id 1
     label "1"
+    score 2.478327335168365
   ]
   node [
     id 2
     label "2"
+    score 2.478327335168365
   ]
   node [
     id 3
     label "3"
+    score 2.478327335168365
   ]
   node [
     id 4
     label "4"
+    score 2.759338441497972
   ]
   node [
     id 5
     label "5"
+    score 2.478327335168365
   ]
   node [
     id 6
     label "6"
+    score 2.478327335168365
   ]
   node [
     id 7
     label "7"
+    score 2.478327335168365
   ]
   node [
     id 8
     label "8"
+    score 2.478327335168365
   ]
   node [
     id 9
     label "9"
+    score 2.478327335168365
   ]
   node [
     id 10
     label "10"
+    score 2.6323301736441915
   ]
   node [
     id 11
     label "11"
+    score 2.4772091189930054
   ]
   node [
     id 12
     label "12"
+    score 2.7106722278412705
   ]
   node [
     id 13
     label "13"
+    score 2.5542679702894975
   ]
   node [
     id 14
     label "14"
+    score 2.4772091189930054
   ]
   node [
     id 15
     label "15"
+    score 2.4835444322646434
   ]
   node [
     id 16
     label "16"
+    score 2.4835444322646434
   ]
   node [
     id 17
     label "17"
+    score 2.479395362379249
   ]
   node [
     id 18
     label "18"
+    score 2.5837750905978507
   ]
   node [
     id 19
     label "19"
+    score 2.4776225732636026
   ]
   node [
     id 20
     label "20"
+    score 2.5217893142540664
   ]
   node [
     id 21
     label "21"
+    score 2.4776225732636026
   ]
   node [
     id 22
     label "22"
+    score 2.9245694869250034
   ]
   node [
     id 23
     label "23"
+    score 2.4842949991580676
   ]
   node [
     id 24
     label "24"
+    score 2.4842949991580676
   ]
   node [
     id 25
     label "25"
+    score 2.4851873649932905
   ]
   node [
     id 26
     label "26"
+    score 2.541314503911244
   ]
   node [
     id 27
     label "27"
+    score 2.4845184811434544
   ]
   node [
     id 28
     label "28"
+    score 2.4504224520079054
   ]
   node [
     id 29
     label "29"
+    score 2.4845184811434544
   ]
   node [
     id 30
     label "30"
+    score 2.4768016108045448
   ]
   node [
     id 31
     label "31"
+    score 2.4768016108045448
   ]
   node [
     id 32
     label "32"
+    score 2.7928141079377857
   ]
   node [
     id 33
     label "33"
+    score 2.465898664707283
   ]
   node [
     id 34
     label "34"
+    score 2.4776225732636026
   ]
   node [
     id 35
     label "35"
+    score 2.5562386933935537
   ]
   node [
     id 36
     label "36"
+    score 2.4776225732636026
   ]
   node [
     id 37
     label "37"
+    score 2.478327335168365
   ]
   node [
     id 38
     label "38"
+    score 2.478327335168365
   ]
   node [
     id 39
     label "39"
+    score 2.4772091189930054
   ]
   node [
     id 40
     label "40"
+    score 2.4772091189930054
   ]
   node [
     id 41
     label "41"
+    score 2.4845066393697075
   ]
   node [
     id 42
     label "42"
+    score 2.6105060320181592
   ]
   node [
     id 43
     label "43"
+    score 2.4845066393697075
   ]
   node [
     id 44
     label "44"
+    score 2.4845066393697075
   ]
   node [
     id 45
     label "45"
+    score 2.4845308772129933
   ]
   node [
     id 46
     label "46"
+    score 2.4845308772129933
   ]
   node [
     id 47
     label "47"
+    score 2.4845308772129933
   ]
   node [
     id 48
     label "48"
+    score 2.484330977994046
   ]
   node [
     id 49
     label "49"
+    score 2.484330977994046
   ]
   node [
     id 50
     label "50"
+    score 2.484267485930554
   ]
   node [
     id 51
     label "51"
+    score 2.484330977994046
   ]
   node [
     id 52
     label "52"
+    score 2.484267485930554
   ]
   node [
     id 53
     label "53"
+    score 2.4845066393697075
   ]
   node [
     id 54
     label "54"
+    score 2.7276244010642774
   ]
   node [
     id 55
     label "55"
+    score 2.484330977994046
   ]
   node [
     id 56
     label "56"
+    score 2.4836608343810456
   ]
   node [
     id 57
     label "57"
+    score 2.4836608343810456
   ]
   node [
     id 58
     label "58"
+    score 2.484389925748232
   ]
   node [
     id 59
     label "59"
+    score 2.476989164344479
   ]
   node [
     id 60
     label "60"
+    score 2.4774638431048723
   ]
   node [
     id 61
     label "61"
+    score 2.817906448469507
   ]
   node [
     id 62
     label "62"
+    score 2.4845066393697075
   ]
   node [
     id 63
     label "63"
+    score 2.535578995680498
   ]
   node [
     id 64
     label "64"
+    score 2.4560083587597172
   ]
   node [
     id 65
     label "65"
+    score 2.455891956643315
   ]
   node [
     id 66
     label "66"
+    score 2.484330977994046
   ]
   node [
     id 67
     label "67"
+    score 2.5219187171263266
   ]
   node [
     id 68
     label "68"
+    score 2.4837476068678175
   ]
   node [
     id 69
     label "69"
+    score 2.465898664707283
   ]
   node [
     id 70
     label "70"
+    score 2.4765466347400444
   ]
   node [
     id 71
     label "71"
+    score 2.5208739199481958
   ]
   node [
     id 72
     label "72"
+    score 2.4560083587597172
   ]
   node [
     id 73
     label "73"
+    score 2.5540570859357556
   ]
   node [
     id 74
     label "74"
+    score 2.490420011584572
   ]
   node [
     id 75
     label "75"
+    score 2.483347565639205
   ]
   node [
     id 76
     label "76"
+    score 2.4835338502540614
   ]
   node [
     id 77
     label "77"
+    score 2.4836916229927866
   ]
   node [
     id 78
     label "78"
+    score 2.476844644314245
   ]
   node [
     id 79
     label "79"
+    score 2.5215386717748527
   ]
   node [
     id 80
     label "80"
+    score 2.522260062553386
   ]
   node [
     id 81
     label "81"
+    score 2.476912822696709
   ]
   node [
     id 82
     label "82"
+    score 2.4432710236414446
   ]
   node [
     id 83
     label "83"
+    score 2.484574767361645
   ]
   node [
     id 84
     label "84"
+    score 2.4854781687221896
   ]
   node [
     id 85
     label "85"
+    score 2.701193527331091
   ]
   node [
     id 86
     label "86"
+    score 2.7706546365043874
   ]
   node [
     id 87
     label "87"
+    score 2.4840782695032426
   ]
   node [
     id 88
     label "88"
+    score 2.574701737905634
   ]
   node [
     id 89
     label "89"
+    score 2.4432710236414446
   ]
   node [
     id 90
     label "90"
+    score 2.4781630232122605
   ]
   node [
     id 91
     label "91"
+    score 2.4929787411656186
   ]
   node [
     id 92
     label "92"
+    score 2.692354511116709
   ]
   node [
     id 93
     label "93"
+    score 2.4774320970731263
   ]
   node [
     id 94
     label "94"
+    score 2.535235785803955
   ]
   node [
     id 95
     label "95"
+    score 2.5763872506292422
   ]
   node [
     id 96
     label "96"
+    score 2.4866113004934167
   ]
   node [
     id 97
     label "97"
+    score 2.476989164344479
   ]
   node [
     id 98
     label "98"
+    score 2.6090948865498707
   ]
   node [
     id 99
     label "99"
+    score 2.5736496936535893
   ]
   node [
     id 100
     label "100"
+    score 2.585622363612438
   ]
   node [
     id 101
     label "101"
+    score 2.483456157223987
   ]
   node [
     id 102
     label "102"
+    score 2.483588423194348
   ]
   node [
     id 103
     label "103"
+    score 2.4839182795813475
   ]
   node [
     id 104
     label "104"
+    score 2.5362510541335093
   ]
   node [
     id 105
     label "105"
+    score 2.4841417615667343
   ]
   node [
     id 106
     label "106"
+    score 2.53397416735186
   ]
   node [
     id 107
     label "107"
+    score 2.4830895157525834
   ]
   node [
     id 108
     label "108"
+    score 2.4849160623981783
   ]
   node [
     id 109
     label "109"
+    score 2.4838518144767874
   ]
   node [
     id 110
     label "110"
+    score 2.4767953623792485
   ]
   node [
     id 111
     label "111"
+    score 2.476904508259823
   ]
   node [
     id 112
     label "112"
+    score 2.483456157223987
   ]
   node [
     id 113
     label "113"
+    score 2.5361836316089437
   ]
   node [
     id 114
     label "114"
+    score 2.4848211266460996
   ]
   node [
     id 115
     label "115"
+    score 2.4847933110754266
   ]
   node [
     id 116
     label "116"
+    score 2.484949622488881
   ]
   node [
     id 117
     label "117"
+    score 2.4851174229423956
   ]
   node [
     id 118
     label "118"
+    score 2.4851809150058877
   ]
   node [
     id 119
     label "119"
+    score 2.485060280085253
   ]
   node [
     id 120
     label "120"
+    score 2.4845774380595538
   ]
   node [
     id 121
     label "121"
+    score 2.455944866696225
   ]
   node [
     id 122
     label "122"
+    score 2.484457105482078
   ]
   node [
     id 123
     label "123"
+    score 2.455828464579823
   ]
   node [
     id 124
     label "124"
+    score 2.4770384462794754
   ]
   node [
     id 125
     label "125"
+    score 2.4838614390673643
   ]
   node [
     id 126
     label "126"
+    score 2.4504224520079054
   ]
   node [
     id 127

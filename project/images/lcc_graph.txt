@@ -1,0 +1,6 @@
+Nodes dimension -> betweenness centrality
+Edges colors ->
+	1 -> green (68.86)
+	2 -> blue (13.71)
+	-2 -> pink (2.57)
+	-1 -> light blue (14.86)
