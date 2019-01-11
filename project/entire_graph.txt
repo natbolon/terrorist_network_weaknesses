@@ -1,0 +1,6 @@
+Nodes dimension -> eccentricity
+Edges colors ->
+	1 -> green (69.59)
+	2 -> blue (10.59)
+	-2 -> pink (11.8)
+	-1 -> light blue (8.02)
