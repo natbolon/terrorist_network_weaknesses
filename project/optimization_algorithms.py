@@ -1,5 +1,6 @@
 from copy import deepcopy
 from fragmentation_measures import *
+import itertools
 import networkx as nx
 
 def compute_objective(adjacency):
@@ -107,3 +108,85 @@ def find_key_terrorists_fragmentation(adjacency, labels):
         best_score = max(score) - C*(len(set_kt) + 1)
         objective.append(best_score + objective[-1]) 
     return set_kt, objective
+
+def compute_obj_flow(l_nodes, distance, penalty=0.1):
+    """
+    Parameters
+    ----------
+    l_nodes: list of nodes to act as source 
+    distance: numpy matrix with distances between all nodes
+    penalty: penalty value for large distances
+    
+    Returns
+    -------
+    [maxi, n_maxi, mean]: list with maximum distance from the set to any node, 
+    number of nodes at the maximum distance and mean distance. 
+    obj: objective value 
+    """
+    # Distance matrix 
+    dist = np.minimum(distance[l_nodes[0], :], distance[l_nodes[1], :])
+    
+    for j in range(2, len(l_nodes)):
+        # Update distance as minimum between the new node and the set
+        dist = np.minimum(distance[l_nodes[j], :], dist)
+    
+    maxi = max(dist)
+    n_maxi = len(np.where(dist==maxi)[0])
+    mean = sum(dist)/len(dist)
+    # Compute objective value
+    obj = mean + penalty*maxi*n_maxi
+
+    return [maxi, n_maxi, mean] , obj
+
+
+def find_key_terrorists_flow(adjacency, reg=0.5):
+    """
+    Parameters
+    ----------
+    adjacency: numpy matrix representing the adjacency matrix of the largest component
+    reg: regularization parameter to penalize the size of the set.
+    
+    
+    Returns
+    -------
+    OBJ: list of best objective value for the different size of sets.
+    NODES: list with set of best nodes for different size of sets. 
+    """
+    # Create network with the largest component
+    G = nx.from_numpy_matrix(adjacency)
+
+    
+    # Compute distances between all nodes
+    distance_matrix = np.asarray(nx.floyd_warshall_numpy(G))
+    
+    # Set initial objective value arbitrarily high
+    obj = 1000
+    nodes = None
+    
+    best_score = [obj]
+    nodes_sets = []
+    k = 1 # size of the set
+    current = obj
+    
+    while current >= best_score[-1] :
+        # Update current score and size of set
+        current = best_score[-1]
+        k += 1
+        
+        print("Exploring sets of {} terrorists...".format(k))
+        vals = {}
+        vals_obj = {}
+       
+        # Generate all possible set of nodes with the given size
+        for i in tqdm_notebook(list(itertools.combinations(list(range(len(G.nodes))), k))):
+            # Compute objective
+            args, obj_i = compute_obj_flow(i, distance_matrix)
+            if obj_i < obj:
+                obj = obj_i
+                nodes = i
+            vals[i], vals_obj[i] = args, obj_i
+        print('Best score achieved with {} people: {}'.format(k, obj + k*0.5))
+        best_score.append(obj + k*reg)
+        nodes_sets.append(nodes)
+        
+    return best_score[1:], nodes_sets
