@@ -1,6 +1,7 @@
 from copy import deepcopy
 from fragmentation_measures import num_disconnected_components, F_measure, information_entropy, Fd_measure
 import itertools
+from tqdm import tqdm_notebook
 import networkx as nx
 import numpy as np
 
