@@ -1,9 +1,6 @@
 # Identifying a Set of Key Players in a Terrorist Network
 Network Tour of Data Science, 2018, EPFL
 
-# Identifying a Set of Key Players in a Terrorist Network
-Network Tour of Data Science, 2018, EPFL
-
 This is the directory for the project of the course "A Network Tour of Data Science" fall 2018, EPFL. This file contains practical information on the project implementation and how to run it. For more detailed explanation of the project (goals, implemented algorithms, ...), please refer to the report (`report.pdf`). 
 
 The purpose of these project is 
