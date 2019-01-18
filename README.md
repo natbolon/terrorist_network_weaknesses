@@ -1,7 +1,7 @@
 # Identifying a Set of Key Players in a Terrorist Network
-NTDS_2018 Terrorist Network Project
+Network Tour of Data Science, 2018, EPFL
 
-One Paragraph of project description goes here
+In this project, we are interested in learning various vulnerable points of a terrorist network by identifying a set of key players whose roles are vital to the success of such organizations. We seek to develop an appropriate methodology to evaluate the importance of each terrorist to the effectiveness of the network as a whole, and identify an optimal set of key terrorists that one should target in order to debilitate it.
 
 ## Getting Started
 
