@@ -1,7 +1,7 @@
 from copy import deepcopy
 from tqdm import tqdm_notebook
 import numpy as np
-from our_functions import find_components, num_nodes, compute_shortest_path_lengths
+from data_exploration_functions import find_components, num_nodes, compute_shortest_path_lengths
 
 def num_disconnected_components(adjacency):
     """

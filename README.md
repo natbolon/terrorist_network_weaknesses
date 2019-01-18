@@ -1,9 +1,9 @@
-# How to beat terrorism efficiently: identification of set of key players in terrorist networks
+# Identifying a Set of Key Players in a Terrorist Network
 Network Tour of Data Science, 2018, EPFL
 
 This is the directory for the project of the course "A Network Tour of Data Science" fall 2018, EPFL. This file contains practical information on the project implementation and how to run it. For more detailed explanation of the project (goals, implemented algorithms, ...), please refer to the report (`report.pdf`). 
 
-The purpose of this project is to learn various vulnerable points of a terrorist network by identifying a set of key players whose roles are vital to the success of such organizations. We seek to develop an appropriate methodology to evaluate the importance of each terrorist to the effectiveness of the network as a whole, and identify an optimal set of key terrorists that we recommend should be targeted in order to debilitate the network.
+The purpose of these project is learning various vulnerable points of a terrorist network by identifying a set of key players whose roles are vital to the success of such organizations. We seek to develop an appropriate methodology to evaluate the importance of each terrorist to the effectiveness of the network as a whole, and identify an optimal set of key terrorists that we recommend should be targeted in order to debilitate the network.
 
 ## Getting Started
 
@@ -17,13 +17,8 @@ The required environment for running the code and reproducing the results is a c
 
 Besides that (and the built-in Python libraries), the following packages are used and have to be installed:
 
-* [NumPy 1.13.3](http://www.numpy.org).         `pip3 install --user numpy==1.13.3`
-* [Networkx 2.2](https://networkx.github.io)    `pip install --user networkx==2.2`
-* [Matplotlib 2.0.2](https://matplotlib.org).   `pip3 install --user matplotlib==2.0.2`
-* [Pandas 0.23.4](https://pandas.pydata.org)    `pip install --user pandas==0.23.4`
-* [PyGSP 0.5.1](https://pygsp.readthedocs.io/en/stable/) `pip install --user pygsp==0.5.1`
-* [TQDM 4.28.1](https://github.com/tqdm/tqdm)    `pip install --user tqdm==4.28.1`
-
+* [NumPy 1.13.3](http://www.numpy.org). `pip3 install --user numpy==1.13.3`
+* [Matplotlib 2.0.2](https://matplotlib.org). `pip3 install --user matplotlib==2.0.2`
 
 ### Installing
 
@@ -45,10 +40,6 @@ The project has the following folder (and file) structure:
     * `fragmentation.ipynb` Notebook containing initial data exploration as well as optimization task and results on the fragmentation problem. The provided notebook is already executed and shows the desired results.
     * `information_flow.ipynb` Notebook containing the data exploration and optimization task and results on the information diffusion problem. The provided notebook is already executed and shows the desired results. A new execution can take around 15 to 20 minutes. 
     * `adjacency.npy` Numpy file containing the structure of the adjacency matrix of the original network. Can be used to avoid creating it from scratch if a new execution of any of the two notebooks wants to be done. 
-    
-## How to execute the files.
-
-Only fragmentation and information flow Notebooks are intended to be executed. All other files do not provide any directly readable result. The project has been developed so that fragmentation notebook is read first as it contains an initial exploration of the data. Nevertheless, information_flow notebook can be read and understood without need of previous consultation to the fragmentation notebook, taking into account the reader is aware of the purpose of the project.
 
 ## Authors
 
