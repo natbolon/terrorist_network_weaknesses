@@ -311,44 +311,7 @@ def get_true_labels(A):
     
     return labeledNodes
     
-def give_names_tonodes(A):
     
-    # First we want to get the nodes
-    file_path = '../data/TerroristRel/TerroristRel_Colleague.nodes'
-    # Parse using tab and space delimiters
-    terrorist_rel_coll = pd.read_csv(file_path, delim_whitespace = True, header=None, engine='python')
-    
-    # keep URL information
-    colleague = terrorist_rel_coll[[0]]
-    colleague = np.array(colleague)
-    name_dict = {}
-    for idx in range(colleague.shape[0]):
-        url = np.array2string(colleague[idx])
-        
-        url_split = url.split('#')
-        second_name = url_split[2].split("'")[0]
-        first_name = url_split[1].split('_http')[0]
-        colleague[idx] = first_name + ";" + second_name + "; node:" + str(idx)
-        
-        # update dictionary where key = name, value = node index
-        if name_dict.get(first_name) == None:
-            name_dict.update({first_name: set([idx])})
-        else:
-            name_dict.get(first_name).update(name_dict.get(first_name).union(set([idx])))
-        
-        if name_dict.get(second_name) == None:
-            name_dict.update({second_name: set([idx])})
-        else:
-            name_dict.get(second_name).update(name_dict.get(second_name).union(set([idx])))
-    
-    zero_index = np.where(np.sum(A, axis=0) == 0)[0]
-    A = np.delete(A, zero_index, axis=0)
-    A = np.delete(A, zero_index, axis=1)
-    colleague = np.delete(colleague, zero_index, axis=0)
-    
-    return colleague, A, name_dict;
-
-
 def give_names_tonodes_dates_based(A):
     
     # First we want to get the nodes

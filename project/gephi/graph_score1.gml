@@ -22,7 +22,7 @@ graph [
   node [
     id 4
     label "4"
-    score 0.8485886513739107
+    score 0.8109156869990141
   ]
   node [
     id 5
@@ -62,7 +62,7 @@ graph [
   node [
     id 12
     label "12"
-    score 0.8471357878824163
+    score 0.8094628235075196
   ]
   node [
     id 13
@@ -102,7 +102,7 @@ graph [
   node [
     id 20
     label "20"
-    score 0.8451869680971049
+    score 0.8075140037222083
   ]
   node [
     id 21
@@ -132,7 +132,7 @@ graph [
   node [
     id 26
     label "26"
-    score 0.8668777544132684
+    score 0.8292047900383718
   ]
   node [
     id 27
@@ -327,7 +327,7 @@ graph [
   node [
     id 65
     label "65"
-    score 0.8443866908235249
+    score 0.8067137264486283
   ]
   node [
     id 66
@@ -347,7 +347,7 @@ graph [
   node [
     id 69
     label "69"
-    score 0.844202742758794
+    score 0.8065297783838974
   ]
   node [
     id 70
@@ -357,7 +357,7 @@ graph [
   node [
     id 71
     label "71"
-    score 0.8437353917316505
+    score 0.8060624273567538
   ]
   node [
     id 72
@@ -367,7 +367,7 @@ graph [
   node [
     id 73
     label "73"
-    score 0.8437192405190177
+    score 0.806046276144121
   ]
   node [
     id 74
@@ -407,12 +407,12 @@ graph [
   node [
     id 81
     label "81"
-    score 0.8442550133911586
+    score 0.806582049016262
   ]
   node [
     id 82
     label "82"
-    score 0.8448988782205549
+    score 0.8072259138456582
   ]
   node [
     id 83
@@ -462,7 +462,7 @@ graph [
   node [
     id 92
     label "92"
-    score 1.0943697013409115
+    score 1.056696736966015
   ]
   node [
     id 93
@@ -472,7 +472,7 @@ graph [
   node [
     id 94
     label "94"
-    score 1.0553517052081063
+    score 1.0176787408332097
   ]
   node [
     id 95
@@ -482,7 +482,7 @@ graph [
   node [
     id 96
     label "96"
-    score 0.8443500609917429
+    score 0.8066770966168463
   ]
   node [
     id 97
@@ -512,7 +512,7 @@ graph [
   node [
     id 102
     label "102"
-    score 0.9063368762267588
+    score 0.8309909474769654
   ]
   node [
     id 103
@@ -532,7 +532,7 @@ graph [
   node [
     id 106
     label "106"
-    score 0.8453337270959798
+    score 0.8076607627210831
   ]
   node [
     id 107
@@ -542,7 +542,7 @@ graph [
   node [
     id 108
     label "108"
-    score 0.8431277128974703
+    score 0.8054547485225737
   ]
   node [
     id 109
@@ -577,7 +577,7 @@ graph [
   node [
     id 115
     label "115"
-    score 0.8452684032302131
+    score 0.8075954388553165
   ]
   node [
     id 116
@@ -646,12 +646,6 @@ graph [
   ]
   edge [
     source 0
-    target 0
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 0
     target 1
     weight 1
     relations 1.0
@@ -730,12 +724,6 @@ graph [
   ]
   edge [
     source 1
-    target 1
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 1
     target 2
     weight 1
     relations 1.0
@@ -808,12 +796,6 @@ graph [
   ]
   edge [
     source 2
-    target 2
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 2
     target 3
     weight 1
     relations 1.0
@@ -880,12 +862,6 @@ graph [
   ]
   edge [
     source 3
-    target 3
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 3
     target 4
     weight 1
     relations 1.0
@@ -941,12 +917,6 @@ graph [
   edge [
     source 3
     target 40
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 4
-    target 4
     weight 1
     relations 1.0
   ]
@@ -1030,12 +1000,6 @@ graph [
   ]
   edge [
     source 5
-    target 5
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 5
     target 6
     weight 1
     relations 1.0
@@ -1084,12 +1048,6 @@ graph [
   ]
   edge [
     source 6
-    target 6
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 6
     target 7
     weight 1
     relations 1.0
@@ -1132,12 +1090,6 @@ graph [
   ]
   edge [
     source 7
-    target 7
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 7
     target 8
     weight 1
     relations 1.0
@@ -1174,12 +1126,6 @@ graph [
   ]
   edge [
     source 8
-    target 8
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 8
     target 9
     weight 1
     relations 1.0
@@ -1210,12 +1156,6 @@ graph [
   ]
   edge [
     source 9
-    target 9
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 9
     target 10
     weight 1
     relations 1.0
@@ -1235,12 +1175,6 @@ graph [
   edge [
     source 9
     target 40
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 10
-    target 10
     weight 1
     relations 1.0
   ]
@@ -1276,12 +1210,6 @@ graph [
   ]
   edge [
     source 11
-    target 11
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 11
     target 12
     weight 1
     relations 1.0
@@ -1307,12 +1235,6 @@ graph [
   edge [
     source 11
     target 42
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 12
-    target 12
     weight 1
     relations 1.0
   ]
@@ -1360,12 +1282,6 @@ graph [
   ]
   edge [
     source 13
-    target 13
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 13
     target 14
     weight 1
     relations 1.0
@@ -1402,12 +1318,6 @@ graph [
   ]
   edge [
     source 14
-    target 14
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 14
     target 38
     weight 1
     relations 1.0
@@ -1426,12 +1336,6 @@ graph [
   ]
   edge [
     source 15
-    target 15
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 15
     target 16
     weight 1
     relations 1.0
@@ -1444,19 +1348,7 @@ graph [
   ]
   edge [
     source 16
-    target 16
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 16
     target 90
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 17
-    target 17
     weight 1
     relations 1.0
   ]
@@ -1475,12 +1367,6 @@ graph [
   edge [
     source 17
     target 40
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 18
-    target 18
     weight 1
     relations 1.0
   ]
@@ -1534,12 +1420,6 @@ graph [
   ]
   edge [
     source 19
-    target 19
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 19
     target 20
     weight 1
     relations 1.0
@@ -1576,12 +1456,6 @@ graph [
   ]
   edge [
     source 20
-    target 20
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 20
     target 21
     weight 1
     relations 1.0
@@ -1606,12 +1480,6 @@ graph [
   ]
   edge [
     source 21
-    target 21
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 21
     target 35
     weight 1
     relations 1.0
@@ -1625,12 +1493,6 @@ graph [
   edge [
     source 21
     target 37
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 22
-    target 22
     weight 1
     relations 1.0
   ]
@@ -1702,12 +1564,6 @@ graph [
   ]
   edge [
     source 23
-    target 23
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 23
     target 24
     weight 1
     relations 1.0
@@ -1720,19 +1576,7 @@ graph [
   ]
   edge [
     source 24
-    target 24
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 24
     target 65
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 25
-    target 25
     weight 1
     relations 1.0
   ]
@@ -1775,12 +1619,6 @@ graph [
   edge [
     source 25
     target 94
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 26
-    target 26
     weight 1
     relations 1.0
   ]
@@ -1829,12 +1667,6 @@ graph [
   edge [
     source 26
     target 94
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 27
-    target 27
     weight 1
     relations 1.0
   ]
@@ -1894,12 +1726,6 @@ graph [
   ]
   edge [
     source 28
-    target 28
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 28
     target 30
     weight 1
     relations 1.0
@@ -1913,12 +1739,6 @@ graph [
   edge [
     source 28
     target 94
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 29
-    target 29
     weight 1
     relations 1.0
   ]
@@ -1930,12 +1750,6 @@ graph [
   ]
   edge [
     source 30
-    target 30
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 30
     target 33
     weight 1
     relations 1.0
@@ -1948,25 +1762,7 @@ graph [
   ]
   edge [
     source 31
-    target 31
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 31
     target 32
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 32
-    target 32
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 33
-    target 33
     weight 1
     relations 1.0
   ]
@@ -1984,21 +1780,9 @@ graph [
   ]
   edge [
     source 34
-    target 34
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 34
     target 71
     weight 1
     relations -2.0
-  ]
-  edge [
-    source 35
-    target 35
-    weight 1
-    relations 1.0
   ]
   edge [
     source 35
@@ -2009,12 +1793,6 @@ graph [
   edge [
     source 35
     target 37
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 36
-    target 36
     weight 1
     relations 1.0
   ]
@@ -2038,18 +1816,6 @@ graph [
   ]
   edge [
     source 37
-    target 37
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 37
-    target 38
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 38
     target 38
     weight 1
     relations 1.0
@@ -2074,43 +1840,13 @@ graph [
   ]
   edge [
     source 39
-    target 39
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 39
-    target 40
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 40
     target 40
     weight 1
     relations 1.0
   ]
   edge [
     source 41
-    target 41
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 41
     target 42
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 42
-    target 42
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 43
-    target 43
     weight 1
     relations 1.0
   ]
@@ -2141,12 +1877,6 @@ graph [
   edge [
     source 43
     target 64
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 44
-    target 44
     weight 1
     relations 1.0
   ]
@@ -2182,12 +1912,6 @@ graph [
   ]
   edge [
     source 45
-    target 45
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 45
     target 46
     weight 1
     relations 1.0
@@ -2206,12 +1930,6 @@ graph [
   ]
   edge [
     source 46
-    target 46
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 46
     target 55
     weight 1
     relations 1.0
@@ -2219,12 +1937,6 @@ graph [
   edge [
     source 46
     target 64
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 47
-    target 47
     weight 1
     relations 1.0
   ]
@@ -2254,12 +1966,6 @@ graph [
   ]
   edge [
     source 48
-    target 48
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 48
     target 49
     weight 1
     relations 1.0
@@ -2278,12 +1984,6 @@ graph [
   ]
   edge [
     source 49
-    target 49
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 49
     target 56
     weight 1
     relations 1.0
@@ -2291,12 +1991,6 @@ graph [
   edge [
     source 49
     target 63
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 50
-    target 50
     weight 1
     relations 1.0
   ]
@@ -2344,12 +2038,6 @@ graph [
   ]
   edge [
     source 51
-    target 51
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 51
     target 52
     weight 1
     relations 1.0
@@ -2386,12 +2074,6 @@ graph [
   ]
   edge [
     source 52
-    target 52
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 52
     target 53
     weight 1
     relations 1.0
@@ -2411,12 +2093,6 @@ graph [
   edge [
     source 52
     target 68
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 53
-    target 53
     weight 1
     relations 1.0
   ]
@@ -2446,12 +2122,6 @@ graph [
   ]
   edge [
     source 54
-    target 54
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 54
     target 56
     weight 1
     relations 1.0
@@ -2465,24 +2135,12 @@ graph [
   edge [
     source 54
     target 68
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 55
-    target 55
     weight 1
     relations 1.0
   ]
   edge [
     source 55
     target 64
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 56
-    target 56
     weight 1
     relations 1.0
   ]
@@ -2506,24 +2164,12 @@ graph [
   ]
   edge [
     source 57
-    target 57
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 57
     target 68
     weight 1
     relations 1.0
   ]
   edge [
     source 58
-    target 58
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 58
     target 59
     weight 1
     relations 1.0
@@ -2542,12 +2188,6 @@ graph [
   ]
   edge [
     source 59
-    target 59
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 59
     target 60
     weight 1
     relations 1.0
@@ -2557,12 +2197,6 @@ graph [
     target 90
     weight 1
     relations 2.0
-  ]
-  edge [
-    source 60
-    target 60
-    weight 1
-    relations 1.0
   ]
   edge [
     source 60
@@ -2584,12 +2218,6 @@ graph [
   ]
   edge [
     source 61
-    target 61
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 61
     target 62
     weight 1
     relations 1.0
@@ -2602,19 +2230,7 @@ graph [
   ]
   edge [
     source 62
-    target 62
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 62
     target 99
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 63
-    target 63
     weight 1
     relations 1.0
   ]
@@ -2625,28 +2241,10 @@ graph [
     relations 2.0
   ]
   edge [
-    source 64
-    target 64
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 65
-    target 65
-    weight 1
-    relations 1.0
-  ]
-  edge [
     source 65
     target 79
     weight 1
     relations 2.0
-  ]
-  edge [
-    source 66
-    target 66
-    weight 1
-    relations -2.0
   ]
   edge [
     source 66
@@ -2668,27 +2266,9 @@ graph [
   ]
   edge [
     source 67
-    target 67
-    weight 1
-    relations -2.0
-  ]
-  edge [
-    source 67
     target 74
     weight 1
     relations -2.0
-  ]
-  edge [
-    source 68
-    target 68
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 69
-    target 69
-    weight 1
-    relations 1.0
   ]
   edge [
     source 69
@@ -2699,12 +2279,6 @@ graph [
   edge [
     source 69
     target 113
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 70
-    target 70
     weight 1
     relations 2.0
   ]
@@ -2722,30 +2296,12 @@ graph [
   ]
   edge [
     source 71
-    target 71
-    weight 1
-    relations -2.0
-  ]
-  edge [
-    source 71
     target 128
     weight 1
     relations -2.0
   ]
   edge [
     source 72
-    target 72
-    weight 1
-    relations -2.0
-  ]
-  edge [
-    source 72
-    target 73
-    weight 1
-    relations -2.0
-  ]
-  edge [
-    source 73
     target 73
     weight 1
     relations -2.0
@@ -2758,24 +2314,6 @@ graph [
   ]
   edge [
     source 74
-    target 74
-    weight 1
-    relations -2.0
-  ]
-  edge [
-    source 74
-    target 76
-    weight 1
-    relations -2.0
-  ]
-  edge [
-    source 75
-    target 75
-    weight 1
-    relations -2.0
-  ]
-  edge [
-    source 76
     target 76
     weight 1
     relations -2.0
@@ -2794,37 +2332,7 @@ graph [
   ]
   edge [
     source 77
-    target 77
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 77
     target 78
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 78
-    target 78
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 79
-    target 79
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 80
-    target 80
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 81
-    target 81
     weight 1
     relations 2.0
   ]
@@ -2836,25 +2344,7 @@ graph [
   ]
   edge [
     source 82
-    target 82
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 82
     target 126
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 83
-    target 83
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 84
-    target 84
     weight 1
     relations 1.0
   ]
@@ -2866,21 +2356,9 @@ graph [
   ]
   edge [
     source 85
-    target 85
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 85
     target 86
     weight 1
     relations 2.0
-  ]
-  edge [
-    source 86
-    target 86
-    weight 1
-    relations -1.0
   ]
   edge [
     source 86
@@ -2925,46 +2403,10 @@ graph [
     relations -1.0
   ]
   edge [
-    source 87
-    target 87
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 88
-    target 88
-    weight 1
-    relations 1.0
-  ]
-  edge [
     source 88
     target 90
     weight 1
     relations 2.0
-  ]
-  edge [
-    source 89
-    target 89
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 90
-    target 90
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 91
-    target 91
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 92
-    target 92
-    weight 1
-    relations -1.0
   ]
   edge [
     source 92
@@ -2975,12 +2417,6 @@ graph [
   edge [
     source 92
     target 125
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 93
-    target 93
     weight 1
     relations -1.0
   ]
@@ -3022,12 +2458,6 @@ graph [
   ]
   edge [
     source 94
-    target 94
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 94
     target 100
     weight 1
     relations 2.0
@@ -3035,18 +2465,6 @@ graph [
   edge [
     source 94
     target 111
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 95
-    target 95
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 96
-    target 96
     weight 1
     relations 2.0
   ]
@@ -3061,12 +2479,6 @@ graph [
     target 104
     weight 1
     relations 2.0
-  ]
-  edge [
-    source 97
-    target 97
-    weight 1
-    relations -1.0
   ]
   edge [
     source 97
@@ -3106,12 +2518,6 @@ graph [
   ]
   edge [
     source 98
-    target 98
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 98
     target 106
     weight 1
     relations -1.0
@@ -3135,25 +2541,7 @@ graph [
     relations -1.0
   ]
   edge [
-    source 99
-    target 99
-    weight 1
-    relations 1.0
-  ]
-  edge [
     source 100
-    target 100
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 100
-    target 101
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 101
     target 101
     weight 1
     relations 2.0
@@ -3161,12 +2549,6 @@ graph [
   edge [
     source 101
     target 108
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 102
-    target 102
     weight 1
     relations 2.0
   ]
@@ -3183,34 +2565,10 @@ graph [
     relations 2.0
   ]
   edge [
-    source 103
-    target 103
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 104
-    target 104
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 105
-    target 105
-    weight 1
-    relations 2.0
-  ]
-  edge [
     source 105
     target 106
     weight 1
     relations 2.0
-  ]
-  edge [
-    source 106
-    target 106
-    weight 1
-    relations -1.0
   ]
   edge [
     source 106
@@ -3232,19 +2590,7 @@ graph [
   ]
   edge [
     source 107
-    target 107
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 107
     target 110
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 108
-    target 108
     weight 1
     relations 2.0
   ]
@@ -3253,18 +2599,6 @@ graph [
     target 109
     weight 1
     relations 2.0
-  ]
-  edge [
-    source 109
-    target 109
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 110
-    target 110
-    weight 1
-    relations -1.0
   ]
   edge [
     source 110
@@ -3295,36 +2629,6 @@ graph [
     target 124
     weight 1
     relations -1.0
-  ]
-  edge [
-    source 111
-    target 111
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 112
-    target 112
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 113
-    target 113
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 114
-    target 114
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 115
-    target 115
-    weight 1
-    relations 1.0
   ]
   edge [
     source 115
@@ -3364,12 +2668,6 @@ graph [
   ]
   edge [
     source 116
-    target 116
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 116
     target 117
     weight 1
     relations -1.0
@@ -3377,12 +2675,6 @@ graph [
   edge [
     source 116
     target 118
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 117
-    target 117
     weight 1
     relations -1.0
   ]
@@ -3407,12 +2699,6 @@ graph [
   edge [
     source 117
     target 124
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 118
-    target 118
     weight 1
     relations -1.0
   ]
@@ -3430,19 +2716,7 @@ graph [
   ]
   edge [
     source 119
-    target 119
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 119
     target 121
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 120
-    target 120
     weight 1
     relations -1.0
   ]
@@ -3460,62 +2734,14 @@ graph [
   ]
   edge [
     source 121
-    target 121
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 121
     target 124
     weight 1
     relations -1.0
   ]
   edge [
     source 122
-    target 122
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 122
     target 124
     weight 1
     relations -1.0
-  ]
-  edge [
-    source 123
-    target 123
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 124
-    target 124
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 125
-    target 125
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 126
-    target 126
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 127
-    target 127
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 128
-    target 128
-    weight 1
-    relations -2.0
   ]
 ]

@@ -1,7 +1,8 @@
 from copy import deepcopy
-from fragmentation_measures import *
+from fragmentation_measures import num_disconnected_components, F_measure, information_entropy, Fd_measure
 import itertools
 import networkx as nx
+import numpy as np
 
 def compute_objective(adjacency):
     """
@@ -13,12 +14,12 @@ def compute_objective(adjacency):
     -------
     F + IE + Fd: combined score according to three metrics
     """
-	
+
     F = F_measure(adjacency)
     IE = information_entropy(adjacency)
     Fd = Fd_measure(adjacency)
     return F + IE + Fd
-	
+
 
 def find_key_terrorists_fragmentation(adjacency, labels):
     """
@@ -64,7 +65,8 @@ def find_key_terrorists_fragmentation(adjacency, labels):
         # update current objective value
         current = objective[-1]
         
-        graph = nx.from_numpy_matrix(adjacency)
+        # output for GEPHI visualization
+        graph = nx.from_numpy_matrix(new_adjacency)
         d = {}
         for index, value in enumerate(score):
             d[index] = value
@@ -73,7 +75,7 @@ def find_key_terrorists_fragmentation(adjacency, labels):
         for index, value in np.ndenumerate(labels):
             r[index] = value
         nx.set_edge_attributes(graph, r, 'relations')
-        nx.write_gml(graph, "graph_score"+str(iter)+".gml")
+        nx.write_gml(graph, "gephi/graph_score"+str(iter)+".gml")
         iter = iter+1
 
         # If the adjacency has been reduced to size 1
@@ -95,6 +97,8 @@ def find_key_terrorists_fragmentation(adjacency, labels):
         zero_index = np.where(np.sum(new_adjacency, axis=0) == 0)[0]
         new_adjacency = np.delete(new_adjacency, zero_index, axis=0)
         new_adjacency = np.delete(new_adjacency, zero_index, axis=1)
+        labels = np.delete(labels, zero_index, axis=0)
+        labels = np.delete(labels, zero_index, axis=1)
 
         # update set of key terrorists
         set_kt.append(original_indices[key])

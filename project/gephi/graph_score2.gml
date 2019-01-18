@@ -2,650 +2,642 @@ graph [
   node [
     id 0
     label "0"
-    score 2.928747609261866
+    score 1.9484702086366785
   ]
   node [
     id 1
     label "1"
-    score 2.928747609261866
+    score 1.9484702086366785
   ]
   node [
     id 2
     label "2"
-    score 2.928747609261866
+    score 1.9484702086366785
   ]
   node [
     id 3
     label "3"
-    score 2.928747609261866
+    score 1.9484702086366785
   ]
   node [
     id 4
     label "4"
-    score 3.212472864370966
+    score 2.1889106159134775
   ]
   node [
     id 5
     label "5"
-    score 2.928747609261866
+    score 1.9484702086366785
   ]
   node [
     id 6
     label "6"
-    score 2.928747609261866
+    score 1.9484702086366785
   ]
   node [
     id 7
     label "7"
-    score 2.928747609261866
+    score 1.9484702086366785
   ]
   node [
     id 8
     label "8"
-    score 2.928747609261866
+    score 1.9484702086366785
   ]
   node [
     id 9
     label "9"
-    score 2.928747609261866
+    score 1.9484702086366785
   ]
   node [
     id 10
     label "10"
-    score 3.084226296938896
+    score 2.101024203249446
   ]
   node [
     id 11
     label "11"
-    score 2.9276113573417426
+    score 1.9473696021648683
   ]
   node [
     id 12
     label "12"
-    score 3.16329502938539
+    score 2.140746074512626
   ]
   node [
     id 13
     label "13"
-    score 3.005386905847848
+    score 2.0237245891539555
   ]
   node [
     id 14
     label "14"
-    score 2.9276113573417426
+    score 1.9473696021648683
   ]
   node [
     id 15
     label "15"
-    score 2.930210198690355
+    score 1.9571165205746865
   ]
   node [
     id 16
     label "16"
-    score 2.930210198690355
+    score 1.9571165205746865
   ]
   node [
     id 17
     label "17"
-    score 2.929832862718087
+    score 1.9495214165214074
   ]
   node [
     id 18
     label "18"
-    score 3.035187655610355
+    score 2.0529435943763725
   ]
   node [
     id 19
     label "19"
-    score 2.9280314802296075
+    score 1.9477765453445897
   ]
   node [
     id 20
     label "20"
-    score 2.9726020143937113
+    score 1.953640144086373
   ]
   node [
     id 21
     label "21"
-    score 2.9280314802296075
+    score 1.9477765453445897
   ]
   node [
     id 22
     label "22"
-    score 2.900643575817842
+    score 2.4402743233295645
   ]
   node [
     id 23
     label "23"
-    score 2.900643575817842
+    score 1.9578078528089509
   ]
   node [
     id 24
     label "24"
-    score 2.9317533118495973
+    score 1.9578078528089509
   ]
   node [
     id 25
     label "25"
-    score 2.9832170617869207
+    score 1.959494844315965
   ]
   node [
     id 26
     label "26"
-    score 2.93107363955057
+    score 1.9836464802138425
   ]
   node [
     id 27
     label "27"
-    score 2.9005575543124658
+    score 2.4787695997555765
   ]
   node [
     id 28
     label "28"
-    score 2.93107363955057
+    score 1.958489315245194
   ]
   node [
     id 29
     label "29"
-    score 2.927197276440565
+    score 1.9578019011719532
   ]
   node [
     id 30
     label "30"
-    score 2.927197276440565
+    score 1.958489315245194
   ]
   node [
     id 31
     label "31"
-    score 3.2024346365950995
+    score 1.9469685114281943
   ]
   node [
     id 32
     label "32"
-    score 2.916160170198645
+    score 1.9469685114281943
   ]
   node [
     id 33
     label "33"
-    score 2.9280314802296075
+    score 2.3000038953100486
   ]
   node [
     id 34
     label "34"
-    score 3.0073894148084213
+    score 2.054660043527943
   ]
   node [
     id 35
     label "35"
-    score 2.9280314802296075
+    score 1.9477765453445899
   ]
   node [
     id 36
     label "36"
-    score 2.928747609261866
+    score 2.0256642772484996
   ]
   node [
     id 37
     label "37"
-    score 2.928747609261866
+    score 1.9477765453445899
   ]
   node [
     id 38
     label "38"
-    score 2.9276113573417426
+    score 1.9484702086366785
   ]
   node [
     id 39
     label "39"
-    score 2.9276113573417426
+    score 1.9484702086366785
   ]
   node [
     id 40
     label "40"
-    score 2.9088162836538567
+    score 1.9473696021648683
   ]
   node [
     id 41
     label "41"
-    score 2.953585275733524
+    score 1.9473696021648683
   ]
   node [
     id 42
     label "42"
-    score 2.9088162836538567
+    score 1.9580161601038724
   ]
   node [
     id 43
     label "43"
-    score 2.9088162836538567
+    score 2.0930759091773634
   ]
   node [
     id 44
     label "44"
-    score 2.930862886862398
+    score 1.9580161601038724
   ]
   node [
     id 45
     label "45"
-    score 2.930862886862398
+    score 1.9580161601038724
   ]
   node [
     id 46
     label "46"
-    score 2.930862886862398
+    score 1.9580874309569205
   ]
   node [
     id 47
     label "47"
-    score 2.9307995484087366
+    score 1.9580874309569205
   ]
   node [
     id 48
     label "48"
-    score 2.9307995484087366
+    score 1.9580874309569205
   ]
   node [
     id 49
     label "49"
-    score 2.9307350322797046
+    score 1.9578432650490876
   ]
   node [
     id 50
     label "50"
-    score 2.9307995484087366
+    score 1.9578432650490876
   ]
   node [
     id 51
     label "51"
-    score 2.9307350322797046
+    score 1.9577807728606111
   ]
   node [
     id 52
     label "52"
-    score 2.9088162836538567
+    score 1.9578432650490876
   ]
   node [
     id 53
     label "53"
-    score 3.147364867382633
+    score 1.9577807728606111
   ]
   node [
     id 54
     label "54"
-    score 2.9307995484087366
+    score 1.9580161601038724
   ]
   node [
     id 55
     label "55"
-    score 2.9303284782602472
+    score 2.2234053479899316
   ]
   node [
     id 56
     label "56"
-    score 2.9303284782602472
+    score 1.9578432650490876
   ]
   node [
     id 57
     label "57"
-    score 2.930996425008839
+    score 1.9572310895868932
   ]
   node [
     id 58
     label "58"
-    score 2.9273878550375954
+    score 1.9572310895868932
   ]
   node [
     id 59
     label "59"
-    score 2.927870189907027
+    score 1.958100168361859
   ]
   node [
     id 60
     label "60"
-    score 3.220334431077665
+    score 1.9471531113690748
   ]
   node [
     id 61
     label "61"
-    score 2.9088162836538567
+    score 1.9476203148733986
   ]
   node [
     id 62
     label "62"
-    score 2.9162461917040217
+    score 2.327590811201766
   ]
   node [
     id 63
     label "63"
-    score 2.906193417890513
+    score 1.9580161601038724
   ]
   node [
     id 64
     label "64"
-    score 2.9060751383206203
+    score 1.9741261327669866
   ]
   node [
     id 65
     label "65"
-    score 2.9307995484087366
+    score 1.9571263407757327
   ]
   node [
     id 66
     label "66"
-    score 2.972733504409072
+    score 1.9567856185752428
   ]
   node [
     id 67
     label "67"
-    score 2.930416650303258
+    score 1.9578432650490876
   ]
   node [
     id 68
     label "68"
-    score 2.916160170198645
+    score 1.953767509118125
   ]
   node [
     id 69
     label "69"
-    score 2.926938187858896
+    score 1.957316495577811
   ]
   node [
     id 70
     label "70"
-    score 2.971671855663552
+    score 1.9732458856550184
   ]
   node [
     id 71
     label "71"
-    score 2.906193417890513
+    score 1.946717550734789
   ]
   node [
     id 72
     label "72"
-    score 3.005172620133562
+    score 1.9527391654388624
   ]
   node [
     id 73
     label "73"
-    score 2.940891670728237
+    score 1.9571263407757327
   ]
   node [
     id 74
     label "74"
-    score 2.9300338034010562
+    score 2.0235170258136588
   ]
   node [
     id 75
     label "75"
-    score 2.9301994460021827
+    score 2.0920659975375306
   ]
   node [
     id 76
     label "76"
-    score 2.90057905968881
+    score 1.9568753395029839
   ]
   node [
     id 77
     label "77"
-    score 2.9272410040391312
+    score 1.9571061052099403
   ]
   node [
     id 78
     label "78"
-    score 2.9723473292938647
+    score 1.9571794095389627
   ]
   node [
     id 79
     label "79"
-    score 2.9730803554075362
+    score 1.9470108672448283
   ]
   node [
     id 80
     label "80"
-    score 2.9273102820729253
+    score 1.953393448732816
   ]
   node [
     id 81
     label "81"
-    score 2.8933464860231632
+    score 1.9541034790266483
   ]
   node [
     id 82
     label "82"
-    score 2.9311308336109896
+    score 1.9470779719519782
   ]
   node [
     id 83
     label "83"
-    score 2.931909328234646
+    score 1.9577706550777147
   ]
   node [
     id 84
     label "84"
-    score 3.153765314554157
+    score 1.958430394038916
   ]
   node [
     id 85
     label "85"
-    score 3.1843290065864616
+    score 1.9591367045596249
   ]
   node [
     id 86
     label "86"
-    score 2.930626327722613
+    score 2.169224454000653
   ]
   node [
     id 87
     label "87"
-    score 3.0145106324846758
+    score 2.273957481140887
   ]
   node [
     id 88
     label "88"
-    score 2.8933464860231632
+    score 1.9578248149743944
   ]
   node [
     id 89
     label "89"
-    score 2.928530946013691
+    score 2.0545010852231282
   ]
   node [
     id 90
     label "90"
-    score 3.2382551400264736
+    score 1.9577706550777147
   ]
   node [
     id 91
     label "91"
-    score 3.1212680482396857
+    score 2.1758869155269798
   ]
   node [
     id 92
     label "92"
-    score 2.927837931842511
+    score 1.9697313880358227
   ]
   node [
     id 93
     label "93"
-    score 2.9783605519884757
+    score 2.1445366140183113
   ]
   node [
     id 94
     label "94"
-    score 3.0158469868113524
+    score 1.9475890687791604
   ]
   node [
     id 95
     label "95"
-    score 2.931233086555178
+    score 1.9738703115700327
   ]
   node [
     id 96
     label "96"
-    score 2.9273878550375954
+    score 2.0561126397311957
   ]
   node [
     id 97
     label "97"
-    score 3.0452952539298077
+    score 1.9602045770279477
   ]
   node [
     id 98
     label "98"
-    score 3.0134652663812447
+    score 1.9471531113690748
   ]
   node [
     id 99
     label "99"
-    score 2.9577108666185725
+    score 2.0922380494437407
   ]
   node [
     id 100
     label "100"
-    score 2.9084937030086953
+    score 2.053418193889018
   ]
   node [
     id 101
     label "101"
-    score 2.930184494645296
+    score 1.98915519806095
   ]
   node [
     id 102
     label "102"
-    score 2.930380193570027
+    score 1.9569212708106325
   ]
   node [
     id 103
     label "103"
-    score 2.9790293691927765
+    score 1.9571124040257626
   ]
   node [
     id 104
     label "104"
-    score 2.9306908438516452
+    score 1.9574370658239904
   ]
   node [
     id 105
     label "105"
-    score 2.9772989544462325
+    score 1.9748695914219563
   ]
   node [
     id 106
     label "106"
-    score 2.929771591419489
+    score 1.9577044431161146
   ]
   node [
     id 107
     label "107"
-    score 2.9313940696580967
+    score 1.9726285611250578
   ]
   node [
     id 108
     label "108"
-    score 2.930452134174226
+    score 1.9566213533941046
   ]
   node [
     id 109
     label "109"
-    score 2.927190927234216
+    score 1.9584665502336773
   ]
   node [
     id 110
     label "110"
-    score 2.927301833532219
+    score 1.9576019261688282
   ]
   node [
     id 111
     label "111"
-    score 2.9084937030086953
+    score 1.9469623614032967
   ]
   node [
     id 112
     label "112"
-    score 2.979184207902454
+    score 1.9470697884511061
   ]
   node [
     id 113
     label "113"
-    score 2.9312976026842104
+    score 1.9569212708106325
   ]
   node [
     id 114
     label "114"
-    score 2.931269338475301
+    score 1.9748032306694312
   ]
   node [
     id 115
     label "115"
-    score 2.9312048223462686
+    score 1.9584425948947615
   ]
   node [
     id 116
     label "116"
-    score 2.9314588930067913
+    score 1.958345732002623
   ]
   node [
     id 117
     label "117"
-    score 2.9315234091358233
+    score 1.958499581819015
   ]
   node [
     id 118
     label "118"
-    score 2.9315406134368986
+    score 1.9587342251076516
   ]
   node [
     id 119
     label "119"
-    score 2.9310499836365915
+    score 1.958796717296128
   ]
   node [
     id 120
     label "120"
-    score 2.9061289017614804
+    score 1.9586779821380227
   ]
   node [
     id 121
     label "121"
-    score 2.931011273959172
+    score 1.9581332585618032
   ]
   node [
     id 122
     label "122"
-    score 2.9060106221915882
+    score 1.9573981817956052
   ]
   node [
     id 123
     label "123"
-    score 2.927437931842511
+    score 1.9580148209855477
   ]
   node [
     id 124
     label "124"
-    score 2.93040600002164
+    score 1.9572836127833984
   ]
   node [
     id 125
     label "125"
-    score 2.9005575543124658
+    score 1.9472016172106064
   ]
   node [
     id 126
     label "126"
+    score 1.9573811204362115
   ]
   node [
     id 127
     label "127"
-  ]
-  node [
-    id 128
-    label "128"
-  ]
-  edge [
-    source 0
-    target 0
-    weight 1
-    relations 1.0
+    score 1.9568713131303788
   ]
   edge [
     source 0
@@ -715,19 +707,13 @@ graph [
   ]
   edge [
     source 0
-    target 39
+    target 38
     weight 1
     relations 1.0
   ]
   edge [
     source 0
-    target 40
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 1
-    target 1
+    target 39
     weight 1
     relations 1.0
   ]
@@ -793,19 +779,13 @@ graph [
   ]
   edge [
     source 1
-    target 39
+    target 38
     weight 1
     relations 1.0
   ]
   edge [
     source 1
-    target 40
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 2
-    target 2
+    target 39
     weight 1
     relations 1.0
   ]
@@ -865,19 +845,13 @@ graph [
   ]
   edge [
     source 2
-    target 39
+    target 38
     weight 1
     relations 1.0
   ]
   edge [
     source 2
-    target 40
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 3
-    target 3
+    target 39
     weight 1
     relations 1.0
   ]
@@ -931,19 +905,13 @@ graph [
   ]
   edge [
     source 3
-    target 39
+    target 38
     weight 1
     relations 1.0
   ]
   edge [
     source 3
-    target 40
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 4
-    target 4
+    target 39
     weight 1
     relations 1.0
   ]
@@ -997,341 +965,293 @@ graph [
   ]
   edge [
     source 4
-    target 39
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 4
-    target 40
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 4
-    target 82
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 4
-    target 87
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 4
-    target 95
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 5
-    target 5
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 5
-    target 6
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 5
-    target 7
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 5
-    target 8
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 5
-    target 9
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 5
-    target 10
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 5
-    target 17
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 5
-    target 39
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 5
-    target 40
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 6
-    target 6
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 6
-    target 7
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 6
-    target 8
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 6
-    target 9
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 6
-    target 10
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 6
-    target 17
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 6
-    target 39
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 6
-    target 40
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 7
-    target 7
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 7
-    target 8
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 7
-    target 9
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 7
-    target 10
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 7
-    target 17
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 7
-    target 39
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 7
-    target 40
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 8
-    target 8
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 8
-    target 9
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 8
-    target 10
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 8
-    target 17
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 8
-    target 39
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 8
-    target 40
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 9
-    target 9
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 9
-    target 10
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 9
-    target 17
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 9
-    target 39
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 9
-    target 40
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 10
-    target 10
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 10
-    target 17
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 10
-    target 39
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 10
-    target 40
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 10
-    target 62
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 10
-    target 69
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 11
-    target 11
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 11
-    target 12
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 11
-    target 13
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 11
-    target 14
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 11
-    target 41
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 11
-    target 42
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 12
-    target 12
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 12
-    target 13
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 12
-    target 14
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 12
     target 38
     weight 1
     relations 1.0
   ]
   edge [
+    source 4
+    target 39
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 4
+    target 81
+    weight 1
+    relations 2.0
+  ]
+  edge [
+    source 4
+    target 86
+    weight 1
+    relations 2.0
+  ]
+  edge [
+    source 4
+    target 94
+    weight 1
+    relations 2.0
+  ]
+  edge [
+    source 5
+    target 6
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 5
+    target 7
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 5
+    target 8
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 5
+    target 9
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 5
+    target 10
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 5
+    target 17
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 5
+    target 38
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 5
+    target 39
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 6
+    target 7
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 6
+    target 8
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 6
+    target 9
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 6
+    target 10
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 6
+    target 17
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 6
+    target 38
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 6
+    target 39
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 7
+    target 8
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 7
+    target 9
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 7
+    target 10
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 7
+    target 17
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 7
+    target 38
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 7
+    target 39
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 8
+    target 9
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 8
+    target 10
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 8
+    target 17
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 8
+    target 38
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 8
+    target 39
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 9
+    target 10
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 9
+    target 17
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 9
+    target 38
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 9
+    target 39
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 10
+    target 17
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 10
+    target 38
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 10
+    target 39
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 10
+    target 61
+    weight 1
+    relations 2.0
+  ]
+  edge [
+    source 10
+    target 68
+    weight 1
+    relations 2.0
+  ]
+  edge [
+    source 11
+    target 12
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 11
+    target 13
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 11
+    target 14
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 11
+    target 40
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 11
+    target 41
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 12
+    target 13
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 12
+    target 14
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 12
+    target 40
+    weight 1
+    relations 1.0
+  ]
+  edge [
     source 12
     target 41
     weight 1
@@ -1339,27 +1259,15 @@ graph [
   ]
   edge [
     source 12
-    target 42
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 12
-    target 83
+    target 82
     weight 1
     relations 2.0
   ]
   edge [
     source 12
-    target 87
+    target 86
     weight 1
     relations 2.0
-  ]
-  edge [
-    source 13
-    target 13
-    weight 1
-    relations 1.0
   ]
   edge [
     source 13
@@ -1381,7 +1289,7 @@ graph [
   ]
   edge [
     source 13
-    target 38
+    target 40
     weight 1
     relations 1.0
   ]
@@ -1392,38 +1300,14 @@ graph [
     relations 1.0
   ]
   edge [
-    source 13
-    target 42
-    weight 1
-    relations 1.0
-  ]
-  edge [
     source 14
-    target 14
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 14
-    target 38
+    target 40
     weight 1
     relations 1.0
   ]
   edge [
     source 14
     target 41
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 14
-    target 42
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 15
-    target 15
     weight 1
     relations 1.0
   ]
@@ -1435,31 +1319,25 @@ graph [
   ]
   edge [
     source 15
-    target 90
+    target 89
     weight 1
     relations 1.0
   ]
   edge [
     source 16
-    target 16
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 16
-    target 90
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 17
-    target 17
+    target 89
     weight 1
     relations 1.0
   ]
   edge [
     source 17
     target 18
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 17
+    target 38
     weight 1
     relations 1.0
   ]
@@ -1470,18 +1348,6 @@ graph [
     relations 1.0
   ]
   edge [
-    source 17
-    target 40
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 18
-    target 18
-    weight 1
-    relations 1.0
-  ]
-  edge [
     source 18
     target 19
     weight 1
@@ -1519,24 +1385,12 @@ graph [
   ]
   edge [
     source 18
-    target 38
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 18
-    target 75
+    target 74
     weight 1
     relations -2.0
   ]
   edge [
     source 19
-    target 19
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 19
     target 20
     weight 1
     relations 1.0
@@ -1566,18 +1420,6 @@ graph [
     relations 1.0
   ]
   edge [
-    source 19
-    target 38
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 20
-    target 20
-    weight 1
-    relations 1.0
-  ]
-  edge [
     source 20
     target 21
     weight 1
@@ -1597,15 +1439,9 @@ graph [
   ]
   edge [
     source 20
-    target 80
+    target 79
     weight 1
     relations 2.0
-  ]
-  edge [
-    source 21
-    target 21
-    weight 1
-    relations 1.0
   ]
   edge [
     source 21
@@ -1622,12 +1458,6 @@ graph [
   edge [
     source 21
     target 37
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 22
-    target 22
     weight 1
     relations 1.0
   ]
@@ -1640,6 +1470,12 @@ graph [
   edge [
     source 22
     target 24
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 22
+    target 42
     weight 1
     relations 1.0
   ]
@@ -1663,21 +1499,21 @@ graph [
   ]
   edge [
     source 22
-    target 46
+    target 54
     weight 1
     relations 1.0
   ]
   edge [
     source 22
-    target 55
+    target 62
     weight 1
-    relations 1.0
+    relations 2.0
   ]
   edge [
     source 22
     target 63
     weight 1
-    relations 2.0
+    relations 1.0
   ]
   edge [
     source 22
@@ -1687,49 +1523,25 @@ graph [
   ]
   edge [
     source 22
-    target 65
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 22
-    target 98
+    target 97
     weight 1
     relations 2.0
   ]
   edge [
     source 23
-    target 23
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 23
     target 24
     weight 1
     relations 1.0
   ]
   edge [
     source 23
-    target 65
+    target 64
     weight 1
     relations 1.0
   ]
   edge [
     source 24
-    target 24
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 24
-    target 65
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 25
-    target 25
+    target 64
     weight 1
     relations 1.0
   ]
@@ -1765,19 +1577,13 @@ graph [
   ]
   edge [
     source 25
-    target 85
+    target 84
     weight 1
     relations 2.0
   ]
   edge [
     source 25
-    target 94
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 26
-    target 26
+    target 93
     weight 1
     relations 1.0
   ]
@@ -1807,31 +1613,19 @@ graph [
   ]
   edge [
     source 26
-    target 38
+    target 88
     weight 1
     relations 2.0
   ]
   edge [
     source 26
-    target 89
+    target 92
     weight 1
     relations 2.0
   ]
   edge [
     source 26
     target 93
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 26
-    target 94
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 27
-    target 27
     weight 1
     relations 1.0
   ]
@@ -1867,7 +1661,13 @@ graph [
   ]
   edge [
     source 27
-    target 84
+    target 83
+    weight 1
+    relations 2.0
+  ]
+  edge [
+    source 27
+    target 90
     weight 1
     relations 2.0
   ]
@@ -1879,19 +1679,7 @@ graph [
   ]
   edge [
     source 27
-    target 92
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 27
-    target 94
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 28
-    target 28
+    target 93
     weight 1
     relations 1.0
   ]
@@ -1909,13 +1697,7 @@ graph [
   ]
   edge [
     source 28
-    target 94
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 29
-    target 29
+    target 93
     weight 1
     relations 1.0
   ]
@@ -1927,25 +1709,13 @@ graph [
   ]
   edge [
     source 30
-    target 30
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 30
     target 33
     weight 1
     relations 1.0
   ]
   edge [
     source 30
-    target 94
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 31
-    target 31
+    target 93
     weight 1
     relations 1.0
   ]
@@ -1956,49 +1726,25 @@ graph [
     relations 1.0
   ]
   edge [
-    source 32
-    target 32
-    weight 1
-    relations 1.0
-  ]
-  edge [
     source 33
-    target 33
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 33
-    target 88
+    target 87
     weight 1
     relations 2.0
   ]
   edge [
     source 33
-    target 94
+    target 93
     weight 1
     relations 1.0
   ]
   edge [
     source 34
-    target 34
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 34
-    target 71
+    target 70
     weight 1
     relations -2.0
   ]
   edge [
     source 35
-    target 35
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 35
     target 36
     weight 1
     relations 1.0
@@ -2011,15 +1757,15 @@ graph [
   ]
   edge [
     source 36
-    target 36
+    target 37
     weight 1
     relations 1.0
   ]
   edge [
     source 36
-    target 37
+    target 80
     weight 1
-    relations 1.0
+    relations 2.0
   ]
   edge [
     source 36
@@ -2028,90 +1774,48 @@ graph [
     relations 2.0
   ]
   edge [
-    source 36
-    target 82
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 37
-    target 37
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 37
-    target 38
-    weight 1
-    relations 1.0
-  ]
-  edge [
     source 38
-    target 38
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 38
-    target 41
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 38
-    target 42
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 38
-    target 94
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 39
     target 39
     weight 1
     relations 1.0
   ]
   edge [
-    source 39
-    target 40
-    weight 1
-    relations 1.0
-  ]
-  edge [
     source 40
-    target 40
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 41
     target 41
     weight 1
     relations 1.0
   ]
   edge [
-    source 41
-    target 42
-    weight 1
-    relations 1.0
-  ]
-  edge [
     source 42
-    target 42
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 43
     target 43
     weight 1
     relations 1.0
   ]
   edge [
+    source 42
+    target 44
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 42
+    target 45
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 42
+    target 54
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 42
+    target 63
+    weight 1
+    relations 1.0
+  ]
+  edge [
     source 43
     target 44
     weight 1
@@ -2125,401 +1829,299 @@ graph [
   ]
   edge [
     source 43
-    target 46
+    target 54
     weight 1
     relations 1.0
   ]
   edge [
     source 43
-    target 55
+    target 63
     weight 1
     relations 1.0
   ]
   edge [
     source 43
-    target 64
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 44
-    target 44
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 44
-    target 45
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 44
-    target 46
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 44
-    target 55
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 44
-    target 64
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 44
-    target 102
+    target 101
     weight 1
     relations 2.0
   ]
   edge [
-    source 45
+    source 44
     target 45
     weight 1
     relations 1.0
   ]
   edge [
-    source 45
-    target 46
+    source 44
+    target 54
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 44
+    target 63
     weight 1
     relations 1.0
   ]
   edge [
     source 45
-    target 55
+    target 54
     weight 1
     relations 1.0
   ]
   edge [
     source 45
-    target 64
+    target 63
     weight 1
     relations 1.0
   ]
   edge [
     source 46
-    target 46
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 46
-    target 55
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 46
-    target 64
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 47
     target 47
     weight 1
     relations 1.0
   ]
   edge [
-    source 47
+    source 46
     target 48
     weight 1
     relations 1.0
   ]
   edge [
-    source 47
-    target 49
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 47
-    target 56
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 47
-    target 63
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 48
-    target 48
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 48
-    target 49
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 48
-    target 56
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 48
-    target 63
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 49
-    target 49
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 49
-    target 56
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 49
-    target 63
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 50
-    target 50
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 50
-    target 51
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 50
-    target 52
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 50
-    target 53
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 50
-    target 54
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 50
-    target 56
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 50
-    target 57
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 50
-    target 68
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 51
-    target 51
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 51
-    target 52
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 51
-    target 53
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 51
-    target 54
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 51
-    target 56
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 51
-    target 57
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 51
-    target 68
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 52
-    target 52
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 52
-    target 53
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 52
-    target 56
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 52
-    target 57
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 52
-    target 68
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 53
-    target 53
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 53
-    target 54
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 53
-    target 56
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 53
-    target 57
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 53
-    target 68
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 54
-    target 54
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 54
-    target 56
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 54
-    target 57
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 54
-    target 68
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 55
+    source 46
     target 55
     weight 1
     relations 1.0
   ]
   edge [
-    source 55
-    target 64
+    source 46
+    target 62
     weight 1
     relations 1.0
   ]
   edge [
-    source 56
+    source 47
+    target 48
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 47
+    target 55
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 47
+    target 62
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 48
+    target 55
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 48
+    target 62
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 49
+    target 50
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 49
+    target 51
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 49
+    target 52
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 49
+    target 53
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 49
+    target 55
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 49
     target 56
     weight 1
     relations 1.0
   ]
   edge [
-    source 56
-    target 57
+    source 49
+    target 67
     weight 1
     relations 1.0
   ]
   edge [
-    source 56
+    source 50
+    target 51
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 50
+    target 52
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 50
+    target 53
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 50
+    target 55
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 50
+    target 56
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 50
+    target 67
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 51
+    target 52
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 51
+    target 55
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 51
+    target 56
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 51
+    target 67
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 52
+    target 53
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 52
+    target 55
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 52
+    target 56
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 52
+    target 67
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 53
+    target 55
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 53
+    target 56
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 53
+    target 67
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 54
     target 63
     weight 1
     relations 1.0
   ]
   edge [
+    source 55
+    target 56
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 55
+    target 62
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 55
+    target 67
+    weight 1
+    relations 1.0
+  ]
+  edge [
     source 56
-    target 68
+    target 67
     weight 1
     relations 1.0
   ]
   edge [
     source 57
-    target 57
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 57
-    target 68
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 58
     target 58
     weight 1
     relations 1.0
   ]
   edge [
+    source 57
+    target 59
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 57
+    target 89
+    weight 1
+    relations 2.0
+  ]
+  edge [
     source 58
     target 59
     weight 1
@@ -2527,992 +2129,554 @@ graph [
   ]
   edge [
     source 58
-    target 60
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 58
-    target 90
+    target 89
     weight 1
     relations 2.0
   ]
   edge [
     source 59
-    target 59
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 59
-    target 60
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 59
-    target 90
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 60
-    target 60
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 60
-    target 70
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 60
-    target 78
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 60
-    target 88
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 61
-    target 61
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 61
-    target 62
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 61
     target 69
     weight 1
+    relations 1.0
+  ]
+  edge [
+    source 59
+    target 77
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 59
+    target 87
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 60
+    target 61
+    weight 1
+    relations 1.0
+  ]
+  edge [
+    source 60
+    target 68
+    weight 1
     relations 2.0
   ]
   edge [
-    source 62
-    target 62
+    source 61
+    target 98
     weight 1
     relations 1.0
   ]
   edge [
     source 62
-    target 99
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 63
-    target 63
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 63
-    target 93
+    target 92
     weight 1
     relations 2.0
   ]
   edge [
     source 64
-    target 64
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 65
-    target 65
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 65
-    target 79
+    target 78
     weight 1
     relations 2.0
   ]
   edge [
-    source 66
+    source 65
     target 66
-    weight 1
-    relations -2.0
-  ]
-  edge [
-    source 66
-    target 67
     weight 1
     relations 1.0
   ]
   edge [
-    source 66
-    target 74
+    source 65
+    target 73
+    weight 1
+    relations -2.0
+  ]
+  edge [
+    source 65
+    target 75
     weight 1
     relations -2.0
   ]
   edge [
     source 66
-    target 76
-    weight 1
-    relations -2.0
-  ]
-  edge [
-    source 67
-    target 67
-    weight 1
-    relations -2.0
-  ]
-  edge [
-    source 67
-    target 74
+    target 73
     weight 1
     relations -2.0
   ]
   edge [
     source 68
-    target 68
+    target 98
     weight 1
     relations 1.0
   ]
   edge [
-    source 69
-    target 69
+    source 68
+    target 112
     weight 1
-    relations 1.0
+    relations 2.0
   ]
   edge [
     source 69
-    target 99
+    target 76
     weight 1
-    relations 1.0
+    relations 2.0
   ]
   edge [
     source 69
-    target 113
+    target 89
     weight 1
     relations 2.0
   ]
   edge [
     source 70
-    target 70
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 70
-    target 77
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 70
-    target 90
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 71
-    target 71
+    target 127
     weight 1
     relations -2.0
   ]
   edge [
     source 71
-    target 128
-    weight 1
-    relations -2.0
-  ]
-  edge [
-    source 72
     target 72
     weight 1
     relations -2.0
   ]
   edge [
     source 72
-    target 73
-    weight 1
-    relations -2.0
-  ]
-  edge [
-    source 73
-    target 73
-    weight 1
-    relations -2.0
-  ]
-  edge [
-    source 73
-    target 75
-    weight 1
-    relations -2.0
-  ]
-  edge [
-    source 74
     target 74
     weight 1
     relations -2.0
   ]
   edge [
-    source 74
-    target 76
-    weight 1
-    relations -2.0
-  ]
-  edge [
-    source 75
+    source 73
     target 75
     weight 1
     relations -2.0
   ]
   edge [
-    source 76
-    target 76
+    source 75
+    target 91
     weight 1
-    relations -2.0
+    relations -1.0
   ]
   edge [
-    source 76
-    target 92
+    source 75
+    target 122
     weight 1
     relations -1.0
   ]
   edge [
     source 76
-    target 123
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 77
     target 77
     weight 1
     relations 2.0
   ]
   edge [
-    source 77
-    target 78
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 78
-    target 78
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 79
-    target 79
-    weight 1
-    relations 2.0
-  ]
-  edge [
     source 80
-    target 80
+    target 111
     weight 1
     relations 2.0
   ]
   edge [
     source 81
-    target 81
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 81
-    target 112
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 82
-    target 82
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 82
-    target 126
+    target 125
     weight 1
     relations 1.0
   ]
   edge [
     source 83
-    target 83
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 84
-    target 84
+    target 90
     weight 1
     relations 1.0
   ]
   edge [
     source 84
-    target 91
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 85
     target 85
     weight 1
     relations 2.0
   ]
   edge [
     source 85
-    target 86
+    target 106
     weight 1
     relations 2.0
   ]
   edge [
-    source 86
-    target 86
+    source 85
+    target 115
     weight 1
     relations -1.0
   ]
   edge [
-    source 86
-    target 107
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 86
+    source 85
     target 116
     weight 1
     relations -1.0
   ]
   edge [
-    source 86
+    source 85
     target 117
     weight 1
     relations -1.0
   ]
   edge [
-    source 86
+    source 85
     target 118
     weight 1
     relations -1.0
   ]
   edge [
-    source 86
+    source 85
     target 119
     weight 1
     relations -1.0
   ]
   edge [
-    source 86
+    source 85
     target 120
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 86
-    target 121
     weight 1
     relations -1.0
   ]
   edge [
     source 87
-    target 87
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 88
-    target 88
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 88
-    target 90
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 89
     target 89
     weight 1
     relations 2.0
   ]
   edge [
-    source 90
-    target 90
-    weight 1
-    relations 1.0
-  ]
-  edge [
     source 91
-    target 91
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 92
-    target 92
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 92
-    target 123
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 92
-    target 125
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 93
-    target 93
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 93
-    target 97
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 93
-    target 98
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 93
-    target 116
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 93
-    target 119
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 93
-    target 120
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 93
-    target 121
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 94
-    target 94
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 94
-    target 100
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 94
-    target 111
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 95
-    target 95
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 96
-    target 96
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 96
-    target 97
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 96
-    target 104
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 97
-    target 97
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 97
-    target 106
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 97
-    target 110
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 97
-    target 119
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 97
-    target 120
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 97
     target 122
     weight 1
     relations -1.0
   ]
   edge [
-    source 97
+    source 91
     target 124
     weight 1
     relations -1.0
   ]
   edge [
-    source 98
-    target 98
+    source 92
+    target 96
     weight 1
     relations -1.0
   ]
   edge [
-    source 98
-    target 106
+    source 92
+    target 97
     weight 1
     relations -1.0
   ]
   edge [
-    source 98
+    source 92
+    target 115
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 92
     target 118
     weight 1
     relations -1.0
   ]
   edge [
-    source 98
+    source 92
     target 119
     weight 1
     relations -1.0
   ]
   edge [
-    source 98
+    source 92
     target 120
     weight 1
     relations -1.0
   ]
   edge [
-    source 99
+    source 93
     target 99
     weight 1
-    relations 1.0
+    relations 2.0
   ]
   edge [
-    source 100
+    source 93
+    target 110
+    weight 1
+    relations 2.0
+  ]
+  edge [
+    source 95
+    target 96
+    weight 1
+    relations 2.0
+  ]
+  edge [
+    source 95
+    target 103
+    weight 1
+    relations 2.0
+  ]
+  edge [
+    source 96
+    target 105
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 96
+    target 109
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 96
+    target 118
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 96
+    target 119
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 96
+    target 121
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 96
+    target 123
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 97
+    target 105
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 97
+    target 117
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 97
+    target 118
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 97
+    target 119
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 99
     target 100
     weight 1
     relations 2.0
   ]
   edge [
     source 100
-    target 101
+    target 107
     weight 1
     relations 2.0
   ]
   edge [
     source 101
-    target 101
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 101
-    target 108
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 102
     target 102
     weight 1
     relations 2.0
   ]
   edge [
-    source 102
-    target 103
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 102
-    target 114
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 103
-    target 103
+    source 101
+    target 113
     weight 1
     relations 2.0
   ]
   edge [
     source 104
-    target 104
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 105
     target 105
     weight 1
     relations 2.0
   ]
   edge [
     source 105
-    target 106
+    target 109
     weight 1
-    relations 2.0
+    relations -1.0
   ]
   edge [
-    source 106
-    target 106
+    source 105
+    target 114
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 105
+    target 120
     weight 1
     relations -1.0
   ]
   edge [
     source 106
-    target 110
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 106
-    target 115
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 106
-    target 121
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 107
-    target 107
+    target 109
     weight 1
     relations 2.0
   ]
   edge [
     source 107
-    target 110
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 108
     target 108
     weight 1
     relations 2.0
   ]
   edge [
-    source 108
-    target 109
+    source 109
+    target 114
     weight 1
-    relations 2.0
+    relations -1.0
   ]
   edge [
     source 109
-    target 109
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 110
-    target 110
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 110
-    target 115
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 110
-    target 117
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 110
-    target 119
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 110
-    target 120
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 110
-    target 124
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 111
-    target 111
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 112
-    target 112
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 113
-    target 113
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 114
-    target 114
-    weight 1
-    relations 2.0
-  ]
-  edge [
-    source 115
-    target 115
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 115
     target 116
     weight 1
     relations -1.0
   ]
   edge [
-    source 115
-    target 117
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 115
+    source 109
     target 118
     weight 1
     relations -1.0
   ]
   edge [
-    source 115
+    source 109
     target 119
     weight 1
     relations -1.0
   ]
   edge [
-    source 115
-    target 120
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 115
-    target 127
-    weight 1
-    relations 1.0
-  ]
-  edge [
-    source 116
-    target 116
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 116
-    target 117
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 116
-    target 118
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 117
-    target 117
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 117
-    target 118
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 117
-    target 121
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 117
-    target 122
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 117
-    target 124
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 118
-    target 118
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 118
-    target 121
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 118
-    target 122
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 119
-    target 119
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 119
-    target 121
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 120
-    target 120
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 120
-    target 121
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 120
-    target 122
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 121
-    target 121
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 121
-    target 124
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 122
-    target 122
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 122
-    target 124
-    weight 1
-    relations -1.0
-  ]
-  edge [
-    source 123
+    source 109
     target 123
     weight 1
     relations -1.0
   ]
   edge [
-    source 124
-    target 124
+    source 114
+    target 115
     weight 1
     relations -1.0
   ]
   edge [
-    source 125
-    target 125
+    source 114
+    target 116
     weight 1
     relations -1.0
   ]
   edge [
-    source 126
+    source 114
+    target 117
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 114
+    target 118
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 114
+    target 119
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 114
     target 126
     weight 1
     relations 1.0
   ]
   edge [
-    source 127
-    target 127
+    source 115
+    target 116
     weight 1
-    relations 1.0
+    relations -1.0
   ]
   edge [
-    source 128
-    target 128
+    source 115
+    target 117
     weight 1
-    relations -2.0
+    relations -1.0
+  ]
+  edge [
+    source 116
+    target 117
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 116
+    target 120
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 116
+    target 121
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 116
+    target 123
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 117
+    target 120
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 117
+    target 121
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 118
+    target 120
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 119
+    target 120
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 119
+    target 121
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 120
+    target 123
+    weight 1
+    relations -1.0
+  ]
+  edge [
+    source 121
+    target 123
+    weight 1
+    relations -1.0
   ]
 ]

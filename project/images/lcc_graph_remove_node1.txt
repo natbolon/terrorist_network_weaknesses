@@ -1,0 +1,6 @@
+Nodes dimension -> objective score
+Edges colors ->
+	1 -> green
+	2 -> blue
+	-2 -> pink
+	-1 -> light blue
