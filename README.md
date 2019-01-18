@@ -3,7 +3,7 @@ Network Tour of Data Science, 2018, EPFL
 
 This is the directory for the project of the course "A Network Tour of Data Science" fall 2018, EPFL. This file contains practical information on the project implementation and how to run it. For more detailed explanation of the project (goals, implemented algorithms, ...), please refer to the report (`report.pdf`). 
 
-The purpose of these project is learning various vulnerable points of a terrorist network by identifying a set of key players whose roles are vital to the success of such organizations. We seek to develop an appropriate methodology to evaluate the importance of each terrorist to the effectiveness of the network as a whole, and identify an optimal set of key terrorists that we recommend should be targeted in order to debilitate the network.
+The purpose of this project is to learn various vulnerable points of a terrorist network by identifying a set of key players whose roles are vital to the success of such organizations. We seek to develop an appropriate methodology to evaluate the importance of each terrorist to the effectiveness of the network as a whole, and identify an optimal set of key terrorists that we recommend should be targeted in order to debilitate the network.
 
 ## Getting Started
 
