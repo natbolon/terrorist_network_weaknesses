@@ -17,8 +17,13 @@ The required environment for running the code and reproducing the results is a c
 
 Besides that (and the built-in Python libraries), the following packages are used and have to be installed:
 
-* [NumPy 1.13.3](http://www.numpy.org). `pip3 install --user numpy==1.13.3`
-* [Matplotlib 2.0.2](https://matplotlib.org). `pip3 install --user matplotlib==2.0.2`
+* [NumPy 1.13.3](http://www.numpy.org).         `pip3 install --user numpy==1.13.3`
+* [Networkx 2.2](https://networkx.github.io)    `pip install --user networkx==2.2`
+* [Matplotlib 2.0.2](https://matplotlib.org).   `pip3 install --user matplotlib==2.0.2`
+* [Pandas 0.23.4](https://pandas.pydata.org)    `pip install --user pandas==0.23.4`
+* [PyGSP 0.5.1](https://pygsp.readthedocs.io/en/stable/) `pip install --user pygsp==0.5.1`
+* [TQDM 4.28.1](https://github.com/tqdm/tqdm)    `pip install --user tqdm==4.28.1`
+
 
 ### Installing
 
